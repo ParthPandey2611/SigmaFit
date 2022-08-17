@@ -24,9 +24,9 @@ Sigma is built using the following technologies.
 
 ![sigmafit-tech-stack](https://cdn.hashnode.com/res/hashnode/image/upload/v1659295075365/PXl2omKHj.png)
 
-```
+<!--
 ## 🥹 Quick Demo Video: [Link](https://vimeo.com/735293152)
-```
+-->
 
 ## ⏭ What's Next
 1. In the next version, we shall allow people to join friend circles to track each other's progress. It will keep everyone motivated to do physical activity and stay healthy.
