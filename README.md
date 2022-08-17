@@ -25,7 +25,7 @@ Sigma is built using the following technologies.
 ![sigmafit-tech-stack](https://cdn.hashnode.com/res/hashnode/image/upload/v1659295075365/PXl2omKHj.png)
 
 
-## 🥹 Quick Demo Video: [Link](https://vimeo.com/735293152)
+// ## 🥹 Quick Demo Video: [Link](https://vimeo.com/735293152)
 
 
 ## ⏭ What's Next
